@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Renzo here!!!
+#### Frontend Developer powered by coffee ☕
+***solving problems through code.***
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on learning more about JavaScript React 
+- 📫 How to reach me: w3renzo@gmail.com 
 
 
-I’m Renzo, a student of programming from Mendoza, Argentina.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/renzo4web)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/renzobarrios/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/renzo4web)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](renzo4web.me)  
 
-- 🌱 I’m currently learning the basic 
-- 👯 I’m looking to collaborate on a open source project
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=renzo4web)  
