@@ -1,13 +1,57 @@
-### Hi there 👋, Renzo here!!!
-#### Frontend Developer powered by coffee ☕
-***solving problems through code.***
+<pre>
+      ___           ___           ___           ___           ___              
+     /\  \         /\  \         /\__\         /\  \         /\  \             
+    /::\  \       /::\  \       /::|  |        \:\  \       /::\  \            
+   /:/\:\  \     /:/\:\  \     /:|:|  |         \:\  \     /:/\:\  \           
+  /::\~\:\  \   /::\~\:\  \   /:/|:|  |__        \:\  \   /:/  \:\  \          
+ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/ |:| /\__\ _______\:\__\ /:/__/ \:\__\         
+ \/_|::\/:/  / \:\~\:\ \/__/ \/__|:|/:/  / \::::::::/__/ \:\  \ /:/  /         
+    |:|::/  /   \:\ \:\__\       |:/:/  /   \:\~~\~~      \:\  /:/  /          
+    |:|\/__/     \:\ \/__/       |::/  /     \:\  \        \:\/:/  /           
+    |:|  |        \:\__\         /:/  /       \:\__\        \::/  /            
+     \|__|         \/__/         \/__/         \/__/         \/__/             
+</pre>                                
 
-Skills: REACT / JS / HTML / CSS
+<h2> Hi there 👋, Renzo here!!!.</h2>
 
-- 🔭 I’m currently working on learning more about JavaScript React 
-- 📫 How to reach me: w3renzo@gmail.com 
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Currently looking for opportunities to work in experienced teams
+- 👨‍💻 &nbsp; Checkout my work at https://renzo4web.me/
+- 📝 &nbsp; Regularly complete challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/w3renzo) and help others to improve or complete their solutions.
+- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
+- 📫 &nbsp; How to reach me: renzobarrios@aol.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/renzo4web)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/renzobarrios/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/renzo4web)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://renzo4web.me)  
+<h3>🛠 Tech Stack</h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=renzo4web)  
+- 💻 &nbsp; Python  | Node
+- 🌐 &nbsp; JavaScript | ReactJS | Redux | Tailwind | Bootstrap | ChakraUi | HTML | CSS | Gatsby
+- 🛢 &nbsp; MySQL | Mongo
+<br/>
+
+### Highlights
+
+[![](https://img.shields.io/badge/-🔊%20Musicon%20Player-000)](https://github.com/renzo4web/Musicon-Player)
+[![](https://img.shields.io/badge/-⚔️%20Github%20Battle-000)](https://github.com/renzo4web/ReactLand/tree/main/01-Github-Battle)
+[![](https://img.shields.io/badge/-✨%20Pacmania-000)](https://github.com/renzo4web/PACMANIA)
+[![](https://img.shields.io/badge/-🦸%20Heroes-000)](https://github.com/renzo4web/ReactLand/tree/main/03-heroes-app)
+[![](https://img.shields.io/badge/-🛰%20Hacker%20News%20Clone-000)](https://github.com/renzo4web/Javascript-Lab/tree/main/Projects/HackerNews)
+[![](https://img.shields.io/badge/-🍺%20Beer%20App-000)](https://github.com/renzo4web/BeerApp)
+
+[![renzo4web's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renzo4web&show_icons=true)](https://github.com/renzo4web)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzo4web&" alt="renzo" /></p>
+
+[![](https://komarev.com/ghpvc/?username=renzo4web&color=blue&label=Profile%20Views)](https://github.com/renzo4web)
+[![](https://img.shields.io/github/followers/renzo4web?label=GitHub%20Followers)](https://github.com/renzo4web)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+  <a href="https://www.polywork.com/renzo4web"><img alt="Poliwork" src="https://d26uz55awpmifc.cloudfront.net/assets/favicon/favicon-16x16-3f22d0282021adfe13b2e526c30d89266854859919afcff110a8604b69709567.png">Poliwork</a>
+ <a href="https://www.codewars.com/users/renzo4web"><img alt="Codewars" src="https://www.codewars.com/users/renzo4web/badges/small"></a>
+<a href="https://twitter.com/renzo4web" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
+<a href="https://www.linkedin.com/in/renzobarrios/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="mailto:renzobarrios@aol.com"><img alt="Email" src="https://img.shields.io/badge/Email-renzobarrios@aol.com-blue?style=flat-square&logo=gmail"></a>
+</p>
