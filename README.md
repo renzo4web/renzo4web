@@ -37,7 +37,7 @@
 [![](https://img.shields.io/badge/-✨%20Pacmania-000)](https://github.com/renzo4web/PACMANIA)
 [![](https://img.shields.io/badge/-🦸%20Heroes-000)](https://github.com/renzo4web/ReactLand/tree/main/03-heroes-app)
 [![](https://img.shields.io/badge/-🛰%20Hacker%20News%20Clone-000)](https://github.com/renzo4web/Javascript-Lab/tree/main/Projects/HackerNews)
-[![](https://img.shields.io/badge/-🍺%20Beer%20App-000)](https://github.com/renzo4web/BeerApp)
+[![](https://img.shields.io/badge/-🍺%20Paleti%20App-000)](https://github.com/renzo4web/paleti-app)
 
 [![renzo4web's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renzo4web&show_icons=true)](https://github.com/renzo4web)
 
