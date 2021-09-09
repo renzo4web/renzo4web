@@ -43,8 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzo4web&" alt="renzo" /></p>
 
-[![](https://komarev.com/ghpvc/?username=renzo4web&color=blue&label=Profile%20Views)](https://github.com/renzo4web)
-[![](https://img.shields.io/github/followers/renzo4web?label=GitHub%20Followers)](https://github.com/renzo4web)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
