@@ -25,8 +25,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  | Node
-- 🌐 &nbsp; JavaScript | ReactJS | Redux | Tailwind | Bootstrap | ChakraUi | HTML | CSS | Gatsby
+- 💻 &nbsp; Python | Node
+- 🌐 &nbsp; Typescript | ReactJS | Redux | Tailwind | Bootstrap | ChakraUi | HTML | CSS | Gatsby
 - 🛢 &nbsp; MySQL | Mongo
 <br/>
 
@@ -34,10 +34,11 @@
 
 [![](https://img.shields.io/badge/-🔊%20Musicon%20Player-000)](https://github.com/renzo4web/Musicon-Player)
 [![](https://img.shields.io/badge/-⚔️%20Github%20Battle-000)](https://github.com/renzo4web/ReactLand/tree/main/01-Github-Battle)
-[![](https://img.shields.io/badge/-✨%20Pacmania-000)](https://github.com/renzo4web/PACMANIA)
-[![](https://img.shields.io/badge/-🦸%20Heroes-000)](https://github.com/renzo4web/ReactLand/tree/main/03-heroes-app)
-[![](https://img.shields.io/badge/-🛰%20Hacker%20News%20Clone-000)](https://github.com/renzo4web/Javascript-Lab/tree/main/Projects/HackerNews)
+[![](https://img.shields.io/badge/-🐛%20Bug%20Tracker-000)](https://github.com/renzo4web/ReactLand/tree/main/03-heroes-app)
+[![](https://img.shields.io/badge/-📅%20Super%20Kalendar-000)](https://github.com/renzo4web/ReactLand/tree/main/05-super-kalendar)
 [![](https://img.shields.io/badge/-🌈%20Paleti%20App-000)](https://github.com/renzo4web/paleti-app)
+[![](https://img.shields.io/badge/-🛒%20Kioki%20eCommerce%20App-000)](https://github.com/renzo4web/paleti-app)
+
 
 [![renzo4web's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renzo4web&show_icons=true)](https://github.com/renzo4web)
 
