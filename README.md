@@ -37,7 +37,7 @@
 [![](https://img.shields.io/badge/-🐛%20Bug%20Tracker-000)](https://github.com/renzo4web/ReactLand/tree/main/03-heroes-app)
 [![](https://img.shields.io/badge/-📅%20Super%20Kalendar-000)](https://github.com/renzo4web/ReactLand/tree/main/05-super-kalendar)
 [![](https://img.shields.io/badge/-🌈%20Paleti%20App-000)](https://github.com/renzo4web/paleti-app)
-[![](https://img.shields.io/badge/-🛒%20Kioki%20eCommerce%20App-000)](https://github.com/renzo4web/paleti-app)
+[![](https://img.shields.io/badge/-🛒%20Kioski%20eCommerce%20App-000)](https://github.com/renzo4web/Kioski-eCommerce-App)
 
 
 [![renzo4web's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renzo4web&show_icons=true)](https://github.com/renzo4web)
