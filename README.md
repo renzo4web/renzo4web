@@ -17,7 +17,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Currently looking for opportunities to work in experienced teams
 - 👨‍💻 &nbsp; Checkout my work at https://renzo4web.me/
 - 📝 &nbsp; Regularly complete challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/w3renzo) and help others to improve or complete their solutions.
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
