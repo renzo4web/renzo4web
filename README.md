@@ -24,9 +24,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Node
 - 🌐 &nbsp; Typescript | ReactJS | Redux | Tailwind | Bootstrap | ChakraUi | HTML | CSS | Gatsby
 - 🛢 &nbsp; MySQL | Mongo
+- 
 <br/>
 
 ### Highlights
