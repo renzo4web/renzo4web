@@ -26,7 +26,7 @@
 
 - 🌐 &nbsp; Typescript | ReactJS | Redux | Tailwind | Bootstrap | ChakraUi | HTML | CSS | Gatsby
 - 🛢 &nbsp; MySQL | Mongo
-- 
+
 <br/>
 
 ### Highlights
