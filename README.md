@@ -1,43 +1,16 @@
-<pre>
-      ___           ___           ___           ___           ___              
-     /\  \         /\  \         /\__\         /\  \         /\  \             
-    /::\  \       /::\  \       /::|  |        \:\  \       /::\  \            
-   /:/\:\  \     /:/\:\  \     /:|:|  |         \:\  \     /:/\:\  \           
-  /::\~\:\  \   /::\~\:\  \   /:/|:|  |__        \:\  \   /:/  \:\  \          
- /:/\:\ \:\__\ /:/\:\ \:\__\ /:/ |:| /\__\ _______\:\__\ /:/__/ \:\__\         
- \/_|::\/:/  / \:\~\:\ \/__/ \/__|:|/:/  / \::::::::/__/ \:\  \ /:/  /         
-    |:|::/  /   \:\ \:\__\       |:/:/  /   \:\~~\~~      \:\  /:/  /          
-    |:|\/__/     \:\ \/__/       |::/  /     \:\  \        \:\/:/  /           
-    |:|  |        \:\__\         /:/  /       \:\__\        \::/  /            
-     \|__|         \/__/         \/__/         \/__/         \/__/             
-</pre>                                
 
 <h2> Hi there 👋, Renzo here!!!.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 👨‍💻Currently collaborating with BlackBox Vision's digital agency.
-- 📝 &nbsp; Regularly complete challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/w3renzo) and help others to improve or complete their solutions.
-- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
 - 📫 &nbsp; How to reach me: renzobarrios@aol.com
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Typescript | ReactJS | Redux | Tailwind | Bootstrap | ChakraUi | HTML | CSS | Gatsby
-- 🛢 &nbsp; MySQL | Mongo
+ - 🌐 &nbsp; Typescript | ReactJS | React Native | Firebase | Python
 
 <br/>
-
-### Highlights
-
-[![](https://img.shields.io/badge/-🔊%20Musicon%20Player-000)](https://github.com/renzo4web/Musicon-Player)
-[![](https://img.shields.io/badge/-⚔️%20Github%20Battle-000)](https://github.com/renzo4web/ReactLand/tree/main/01-Github-Battle)
-[![](https://img.shields.io/badge/-🐛%20Bug%20Tracker-000)](https://github.com/renzo4web/ReactLand/tree/main/03-heroes-app)
-[![](https://img.shields.io/badge/-📅%20Super%20Kalendar-000)](https://github.com/renzo4web/ReactLand/tree/main/05-super-kalendar)
-[![](https://img.shields.io/badge/-🌈%20Paleti%20App-000)](https://github.com/renzo4web/paleti-app)
-[![](https://img.shields.io/badge/-🛒%20Kioski%20eCommerce%20App-000)](https://github.com/renzo4web/Kioski-eCommerce-App)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
