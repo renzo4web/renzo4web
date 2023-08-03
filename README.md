@@ -7,11 +7,8 @@
 - 📫 &nbsp; How to reach me: renzobarrios@aol.com
 
 <h3>🛠 Tech Stack</h3>
-
  - 🌐 &nbsp; Typescript | ReactJS | React Native | Firebase | Python
-
 <br/>
-
 <h3> 🤝🏻 Connect with Me </h3>
 <br/>
 <p align="center">
